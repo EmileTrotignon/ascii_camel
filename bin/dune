@@ -1,4 +1,4 @@
 (executable
  (public_name ascii_camel)
  (name main)
- (libraries bos cmdliner re))
+ (libraries cmdliner re))

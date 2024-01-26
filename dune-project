@@ -19,7 +19,7 @@
  (name ascii_camel)
  (synopsis "A short synopsis")
  (description "A longer description")
- (depends ocaml dune re bos cmdliner)
+ (depends ocaml dune re cmdliner)
  (tags
   (topics "to describe" your project)))
 
